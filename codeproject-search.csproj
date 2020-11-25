@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>codeproject_search</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Curiosity.Library" Version="1.0.14017" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.28" />
+  </ItemGroup>
+
+</Project>
