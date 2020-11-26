@@ -2,6 +2,8 @@
 
 This repository contains the source code presented in the [Exploring CodeProject with Curiosity](https://theolivenbaum.medium.com/exploring-codeproject-with-curiosity-4f197ceaa831) article. It uses [Curiosity's](https://curiosity.ai) AI-powered search and it's [data connector](https://www.nuget.org/packages/Curiosity.Library) library to explore and search on CodeProject's articles, using machine-learning-based synonyms, and to suggest similar articles using word and graph embeddings.
 
+![Graphs](https://raw.githubusercontent.com/curiosity-ai/codeproject-search/media/graphs.gif)
+
 The data used for the demo was scraped from the [CodeProject](https://codeproject.com) website, and includes authors and their articles. 
 
 Check more details on our accompanying [blog post](https://theolivenbaum.medium.com/exploring-codeproject-with-curiosity-4f197ceaa831).
